@@ -27,4 +27,4 @@ We reserve the right to suspend or terminate your access to Flux at our discreti
 We may update these Terms of Service from time to time. We will notify you of any changes by posting the new Terms of Service on our website or through the bot.
 
 #### 8. Contact Information
-For any questions or concerns about these Terms of Service, please contact us at [Your Contact Information].
+For any questions or concerns about these Terms of Service, please contact us at [Discord Support Server](https://discord.com/invite/VDPp2g5ECU).

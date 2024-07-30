@@ -12,7 +12,6 @@ This Privacy Policy explains how Flux collects, uses, and protects your informat
 
 #### 3. How We Use Your Information
 - **Command Processing**: To respond to user commands and provide the bot's functionalities.
-- **Giveaway Management**: To manage entries, confirm participation, and notify winners.
 - **Improvements**: To analyze usage patterns and improve the bot's performance and features.
 
 #### 4. Data Sharing and Disclosure
@@ -35,4 +34,4 @@ We retain your data only as long as necessary to provide the bot's services and 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website or through the bot.
 
 #### 9. Contact Information
-For any questions or concerns about this Privacy Policy, please contact us at [ Discord Support Server](https://discord.com/invite/VDPp2g5ECU)
+For any questions or concerns about this Privacy Policy, please contact me on discord @realdevanshyadav.
